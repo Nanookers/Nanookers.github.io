@@ -32,7 +32,7 @@ img {
     display: flex;
     gap: 2rem;
 }
-.profile_profile pic{
+.profile_profilepic{
     max-width: 200px;
     display: flex;
     align-self: center;
